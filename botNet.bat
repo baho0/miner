@@ -1,0 +1,1 @@
+botNet -a kawpow -o stratum-ravencoin.flypool.org:3333 -u RLvGv89vmfEjWPer2zagoBd51EbEXbsg2p.default
